@@ -429,7 +429,7 @@ DfWeb is an independent open-source project. If you find it valuable and want to
 ```
 MIT License
 
-Copyright (c) 2024-2026 DfWeb Contributors
+Copyright (c) 2025-2028 DfWeb Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -468,7 +468,7 @@ Special thanks to all contributors and users who provide feedback.
 
 ## Security
 
-If you discover a security vulnerability, please email security@dfweb.io. Do not create public GitHub issues for security vulnerabilities.
+If you discover a security vulnerability, Please Create In issue. Do not create public GitHub issues for security vulnerabilities.
 
 We aim to respond to security issues within 48 hours and will work with you to understand and address the issue.
 
@@ -476,8 +476,8 @@ We aim to respond to security issues within 48 hours and will work with you to u
 
 ## Contact
 
-- **General inquiries:** hello@dfweb.io
-- **Security issues:** security@dfweb.io
+- **General inquiries:** -----------
+- **Security issues:** ----------
 - **Project website:** https://dfweb.io (coming soon)
 - **Documentation:** https://docs.dfweb.io (coming soon)
 
@@ -485,10 +485,10 @@ We aim to respond to security issues within 48 hours and will work with you to u
 
 ## Project Status
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/dfweb)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/dfweb)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/dfweb)
-![Lines of code](https://img.shields.io/tokei/lines/github/yourusername/dfweb)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ldeveloper-Ui/dfweb)
+![GitHub issues](https://img.shields.io/github/issues/Ldeveloper-Ui/dfweb)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Ldeveloper-Ui/dfweb)
+![Lines of code](https://img.shields.io/tokei/lines/github/Ldeveloper-Ui/dfweb)
 
 ---
 
@@ -498,7 +498,7 @@ We aim to respond to security issues within 48 hours and will work with you to u
 
 Built with Python, C++, and Rust
 
-[GitHub](https://github.com/yourusername/dfweb) • [Documentation](docs/) • [Contributing](CONTRIBUTING.md)
+[GitHub](https://github.com/Ldeveloper-Ui/dfweb) • [Documentation](docs/) • [Contributing](CONTRIBUTING.md)
 
 © 2025-2028 DfWeb Contributors | MIT License
 
