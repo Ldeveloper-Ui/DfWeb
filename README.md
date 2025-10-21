@@ -358,7 +358,7 @@ We welcome contributions from the community. This project is in early developmen
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/dfweb.git
+git clone https://github.com/Ldeveloper-Ui/dfweb.git
 cd dfweb
 
 # Install development dependencies
@@ -389,13 +389,13 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - **GitHub Issues:** Bug reports and feature requests
 - **GitHub Discussions:** Questions and general discussion
 - **Discord:** Real-time chat (coming soon)
-- **Email:** security@dfweb.io (security issues only)
+- **Email:** ---------(security issues only)
 
 ### Getting Help
 
 - Check existing [documentation](docs/)
-- Search [GitHub Issues](https://github.com/yourusername/dfweb/issues)
-- Ask in [GitHub Discussions](https://github.com/yourusername/dfweb/discussions)
+- Search [GitHub Issues](https://github.com/Ldeveloper-Ui/dfweb/issues)
+- Ask in [GitHub Discussions](https://github.com/Ldeveloper-Ui/dfweb/discussions)
 - Review [FAQ](docs/FAQ.md)
 
 ---
